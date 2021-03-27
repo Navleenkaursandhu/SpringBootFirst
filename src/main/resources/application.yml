@@ -1,0 +1,4 @@
+engine:
+  type: AirEngine
+  power: "#{300+200}"
+
